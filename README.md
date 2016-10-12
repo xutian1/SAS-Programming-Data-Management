@@ -1,6 +1,8 @@
 # SAS-Programming-Data-Management
 Part One: Introduction 
+
 I.	Research Interest
+
 The project aims to make gross domestic product (GDP) and its breakdown for country members of the United Nations internationally comparable at current prices in nominal US dollars. Based on the information, we were interested in identifying the poorest and richest countries in 2014 by their GDP and countries with fastest and lowest growth. The final objective was to predict GDP in 2020 for the United States based on its average GDP growth in recent years.
 
 II.	Description of the Data Sources
